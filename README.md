@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**emersonsiega/emersonsiega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Be welcome!  
+Feel free to copy/paste some code from my repos! 🙃
 
-Here are some ideas to get you started:
+### A little about me 👨🏻‍💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Software developer since 2009
+- 🦾 Already worked with Java, Angular and React
+- 🚀 Today I'm focused on Flutter and Dart
+- 👩‍❤️‍👨 I'm married and have a 🐕
+- 🏠 Currently living in Porto Alegre/RS
+  
+### Some stats 🤓
+
+![Emerson Siegas's GitHub stats](https://github-readme-stats.vercel.app/api?username=emersonsiega&show_icons=true&theme=dark&count_private=true)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonsiega)](https://github.com/emersonsiega/github-readme-stats)
+
+### Get in touch 📬
+
+<span align="left">
+  <a href="https://www.linkedin.com/in/emersonsiega/">
+    <img src="https://img.shields.io/badge/-Professional-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emersonsiega/" />
+  </a>
+  <a href="https://twitter.com/emersonsiega">
+    <img src="https://img.shields.io/badge/-Personal-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/emersonsiega" />
+  </a>
+</span>
