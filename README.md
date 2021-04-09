@@ -3,6 +3,12 @@
 Be welcome!  
 Feel free to copy/paste some code from my repos! 🙃
 
+<span align="left">
+  <a href="">
+    <img src="https://komarev.com/ghpvc/?username=emersonsiega" />
+  </a>
+</span>
+
 ### Who am I? 🕵🏻‍♂️
 
 - 👨🏻‍💻 Software developer since 2009
@@ -41,4 +47,3 @@ Feel free to copy/paste some code from my repos! 🙃
 
 
 ![](https://hit.yhype.me/github/profile?user_id=2227499)
-![](https://komarev.com/ghpvc/?username=emersonsiega)
