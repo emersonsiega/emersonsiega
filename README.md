@@ -39,4 +39,6 @@ Feel free to copy/paste some code from my repos! 🙃
   </a>
 </span>
 
+
 ![](https://hit.yhype.me/github/profile?user_id=2227499)
+![](https://komarev.com/ghpvc/?username=emersonsiega)
