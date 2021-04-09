@@ -38,3 +38,5 @@ Feel free to copy/paste some code from my repos! 🙃
     <img src="https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/2719437/siega?tab=profile" />
   </a>
 </span>
+
+![](https://hit.yhype.me/github/profile?user_id=2227499)
