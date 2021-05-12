@@ -15,7 +15,7 @@ Feel free to copy/paste some code from my repos! 🙃
 - 🤖 Already worked with Java, Angular and React
 - 🚀 Today I'm focused on Flutter and Dart
 - 👩‍❤️‍👨 I'm married and have a 🐕
-- 🏠 Currently living in Porto Alegre/RS
+- 🏠 Currently living in Ponta Grossa/PR
   
 ### Some stats 🤓
 
