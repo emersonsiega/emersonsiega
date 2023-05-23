@@ -1,23 +1,25 @@
-## Hi there 👋
+### Hi there 👋 
 
+<br/>
+<!--
 Be welcome!  
 Feel free to copy/paste some code from my repos! 🙃
 
-<span align="left">
+ <span align="left">
   <a href="">
     <img src="https://komarev.com/ghpvc/?username=emersonsiega" />
   </a>
-</span>
+</span> -->
 
-### Who am I? 🕵🏻‍♂️
+#### Who am I? 🕵🏻‍♂️
 
 - 👨🏻‍💻 Software developer since 2009
-- 🤖 Already worked with Java, Angular and React
-- 🚀 Today I'm focused on Flutter and Dart
+- 🤖 I've worked with Java, Angular and React
+- 🚀 Today I'm focused on Flutter/Dart
 - 👩‍❤️‍👨 I'm married and have a 🐕
 - 🏠 Currently living in Ponta Grossa/PR
   
-### Some stats 🤓
+<!-- ### Some stats 🤓
 
 <img
   align="left"
@@ -29,17 +31,19 @@ Feel free to copy/paste some code from my repos! 🙃
   align="center"
    height="163"
   src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=emersonsiega&theme=dark"
-/>
+/> -->
 
-### Find me around the web 🌎
+<br/>
+
+#### Find me around the web 🌎
 
 <span align="left">
   <a href="https://www.linkedin.com/in/emersonsiega/">
     <img src="https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emersonsiega/" />
   </a>
-  <a href="https://twitter.com/emersonsiega">
+<!--   <a href="https://twitter.com/emersonsiega">
     <img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/emersonsiega" />
-  </a>
+  </a> -->
   <a href="https://stackoverflow.com/users/2719437/siega?tab=profile">
     <img src="https://img.shields.io/badge/-StackOverflow-orange?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/2719437/siega?tab=profile" />
   </a>
