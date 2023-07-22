@@ -14,7 +14,7 @@ Feel free to copy/paste some code from my repos! 🙃
 #### Who am I? 🕵🏻‍♂️
 
 - 👨🏻‍💻 Software developer since 2009
-- 🤖 I've worked with Java, Angular and React
+- 🤖 I've worked with Java, C++, Angular and React
 - 🚀 Today I'm focused on Flutter/Dart
 - 👩‍❤️‍👨 I'm married and have a 🐕
 - 🏠 Currently living in Ponta Grossa/PR
