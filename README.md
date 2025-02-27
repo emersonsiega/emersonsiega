@@ -1,25 +1,17 @@
-### Hi there 👋 
+### Who am I?
 
-<br/>
-<!--
-Be welcome!  
-Feel free to copy/paste some code from my repos! 🙃
+I am a skilled software developer with over 15 years of experience, spanning backend, frontend, mobile, and embedded systems.  
+Since 2019, I have been specializing in mobile development with Flutter, building high-performance, scalable applications.
 
- <span align="left">
-  <a href="">
-    <img src="https://komarev.com/ghpvc/?username=emersonsiega" />
-  </a>
-</span> -->
+Feel free to [get in touch](https://www.linkedin.com/in/emersonsiega/).
 
-#### Who am I? 🕵🏻‍♂️
+<!-- #### Who am I? 🕵🏻‍♂️
 
 - 👨🏻‍💻 Software developer since 2009
-- 🤖 I've worked with Java, C++, Angular and React
-- 🚀 Today I'm focused on Flutter/Dart
-- 👩‍❤️‍👨 I'm married and have a 🐕
-- 🏠 Currently living in Ponta Grossa/PR
+- 🤖 Past experiences with Java, C++, Angular and React
+- 🚀 Currently working as a Mobile Develper with focus on Flutter
   
-<!-- ### Some stats 🤓
+ ### Some stats 🤓
 
 <img
   align="left"
@@ -31,7 +23,7 @@ Feel free to copy/paste some code from my repos! 🙃
   align="center"
    height="163"
   src="https://github-readme-stats.vercel.app/api/top-langs/?layout=compact&username=emersonsiega&theme=dark"
-/> -->
+/> 
 
 <br/>
 
@@ -41,13 +33,9 @@ Feel free to copy/paste some code from my repos! 🙃
   <a href="https://www.linkedin.com/in/emersonsiega/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/emersonsiega/" />
   </a>
-<!--   <a href="https://twitter.com/emersonsiega">
-    <img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/emersonsiega" />
-  </a> -->
   <a href="https://stackoverflow.com/users/2719437/siega?tab=profile">
     <img src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge&link=https://stackoverflow.com/users/2719437/siega?tab=profile" />
   </a>
 </span>
+-->
 
-
-![](https://hit.yhype.me/github/profile?user_id=2227499)
